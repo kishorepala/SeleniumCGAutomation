@@ -71,6 +71,7 @@ public class HomePage {
 		String result = SearchResult.getText();
 		
 		return result;
+		//return result;
 		
 	}
 
